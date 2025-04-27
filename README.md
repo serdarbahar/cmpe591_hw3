@@ -19,7 +19,7 @@
 # Part 2: Soft Actor-Critic
 
 - Agent is trained with a policy and a value network.
-- For advantage estimation, Generalized Advantage Estimation (GAE) is used. For every step in episode, GAE estimates the advantage as an exponential average of all the possible temporal differences, weighing 1-step TD the most. 
+- For advantage estimation, Generalized Advantage Estimation (GAE) is used. For every step in episode, GAE estimates the advantage as the sum of all the possible temporal differences with exponentially decaying weights, weighing 1-step TD the most. 
 - To encourage exploration, the action variance is shifted up by some value, starting from 0.5 and exponentially decaying to 0.1 over 50K episodes.
 
 ## Reward Plot
