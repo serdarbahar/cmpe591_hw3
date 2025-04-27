@@ -1,4 +1,4 @@
-Environment: [Gymnasium Pusher Environment](https://gymnasium.farama.org/environments/mujoco/pusher/)
+
 
 # Part 1: Vanilla Policy Gradient
 
@@ -12,8 +12,9 @@ Environment: [Gymnasium Pusher Environment](https://gymnasium.farama.org/environ
 
 ## Example Videos
 
-![episode_2](https://github.com/user-attachments/assets/283b04c6-4c81-4181-bed3-8775f97f0e7a)
-
+<img src="https://github.com/user-attachments/assets/9465eb0a-9e11-42c3-9876-a13261fa165b" width="300"/>
+<img src="https://github.com/user-attachments/assets/ffb8be07-249a-459f-b2f1-9dd5126df5f3" width="300"/>
+<img src="https://github.com/user-attachments/assets/e4e49a0b-5af8-4035-9df5-4c2ff978f2a5" width="300"/>
 
 # Part 2: Soft Actor-Critic
 
@@ -27,4 +28,8 @@ Environment: [Gymnasium Pusher Environment](https://gymnasium.farama.org/environ
 
 ## Example Videos
 
+<img src="https://github.com/user-attachments/assets/32dce771-fd80-41ec-a58f-2b524d7577e8" width="300"/>
+<img src="https://github.com/user-attachments/assets/0f989f14-7f40-4ca0-9abe-a948f5bebe9c" width="300"/>
+<img src="https://github.com/user-attachments/assets/b821facc-1d52-4287-a7d4-f214aae78899" width="300"/>
 
+Environment: [Gymnasium Pusher Environment](https://gymnasium.farama.org/environments/mujoco/pusher/)
